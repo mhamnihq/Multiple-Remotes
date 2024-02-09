@@ -1,2 +1,4 @@
 Sekarang hari Sabtu dini hari, jam 12.05 yang mana tadi jam setengah 11 baru pulang dari jalan-jalan bersama keluarga.
 dan ini lanjut belajar git/github
+
+sekarang kita edit untuk lanjutan prakteknya.

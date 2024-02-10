@@ -4,3 +4,5 @@ dan ini lanjut belajar git/github
 sekarang kita edit untuk lanjutan prakteknya.
 
 sekarang sabtu jam 2 siang, kita tambahkan teks ini untuk belajar remote branch
+
+ini masih belajar tentang remote branch tapi kita balik caranya, editan awal nya dari github bukan dari lokal, dan nanti pas sudah di approve oleh sumber fork nya nanti dari sumber fork nya langsung dari github nya saja sinkronisasinya baru ke lokal.
